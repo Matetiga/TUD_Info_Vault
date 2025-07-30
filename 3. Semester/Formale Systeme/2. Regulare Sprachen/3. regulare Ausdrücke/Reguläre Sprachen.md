@@ -1,0 +1,3 @@
+- Jede endliche Sprache ist regulär 
+- Aus regulären Sprachen entstehen Regulare Sprachen mit Anwendung von : $\cap, \cup, \bar{}, \circ, *$
+- Alle regulären Sprachen können durch Anwendung von $\cup, \circ, *$ aus endlichen Sprachen konstruiert werden

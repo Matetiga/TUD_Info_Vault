@@ -1,0 +1,1 @@
+Eine Sprache wird genau dann von einem [[Regulare Ausdrücke]] beschrieben, wenn sie von einem **endlichen Automaten** erkannt wird.

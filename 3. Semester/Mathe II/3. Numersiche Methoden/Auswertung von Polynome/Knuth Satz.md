@@ -1,0 +1,1 @@
+Jede reelle Polynom vom Grad $n\geq 3$ lässt sich mit $\left\lfloor  \frac{n}{2}  \right\rfloor+2$ **Multiplikationen** und $n+1$ Additionen auswerten

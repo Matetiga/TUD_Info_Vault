@@ -1,0 +1,1 @@
+Genauso wie für ![[Tiefpass]]

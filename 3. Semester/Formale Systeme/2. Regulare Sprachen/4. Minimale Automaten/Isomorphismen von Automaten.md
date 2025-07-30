@@ -1,0 +1,2 @@
+- [[Isomorphismus]]
+![[Screenshot from 2024-11-21 14-42-42.png]]

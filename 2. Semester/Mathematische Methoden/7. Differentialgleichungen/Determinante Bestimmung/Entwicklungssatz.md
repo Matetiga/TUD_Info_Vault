@@ -1,0 +1,1 @@
+![[WhatsApp Image 2024-07-06 at 13.34.36.jpeg]]

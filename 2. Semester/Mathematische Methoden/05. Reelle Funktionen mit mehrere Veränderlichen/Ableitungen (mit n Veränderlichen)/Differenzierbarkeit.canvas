@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"81823c0c4525971c","x":-238,"y":-127,"width":398,"height":127,"type":"text","text":"# Differenzierbarkeit"},
+		{"id":"f2de0e72790c10f7","x":-394,"y":98,"width":250,"height":60,"type":"text","text":"## Partiell"},
+		{"id":"f96e312e64b648a6","x":178,"y":109,"width":250,"height":60,"type":"text","text":"## Total"},
+		{"id":"3656667c89fef34f","x":-590,"y":263,"width":321,"height":117,"type":"text","text":"f ist [[Partiell Differenzierbar]] an der Stelle $x_{0}$"},
+		{"id":"751fe3fe7a661cbc","x":200,"y":280,"width":299,"height":121,"type":"text","text":"f ist [[Totaler Differenzierbarkeit]] an der Stelle $x_{0}$"},
+		{"id":"479c7f24b64c8069","x":187,"y":480,"width":325,"height":119,"type":"text","text":"f ist an der Stelle $x_0$ approximierbar"},
+		{"id":"526a7855547489d3","x":-599,"y":473,"width":339,"height":126,"type":"text","text":"Es existieren alle partiellen Ableitungen $fx_{1}, fx_{2},\\dots,fx_{n}$ an der Stelle $x_0$"},
+		{"id":"d16203593adbd49c","x":-394,"y":620,"width":594,"height":138,"color":"4","type":"text","text":"### f total diff. $\\implies$ f partiell diff. \n\n### f stetig partiell diff. $\\implies$ f total diff."}
+	],
+	"edges":[
+		{"id":"af4398e265ce8e09","fromNode":"81823c0c4525971c","fromSide":"bottom","toNode":"f2de0e72790c10f7","toSide":"top"},
+		{"id":"8bb5239a7b1dde08","fromNode":"81823c0c4525971c","fromSide":"bottom","toNode":"f96e312e64b648a6","toSide":"top"},
+		{"id":"44140a8a83548cd6","fromNode":"f2de0e72790c10f7","fromSide":"bottom","toNode":"3656667c89fef34f","toSide":"top"},
+		{"id":"a6b2d9471ffb1a4c","fromNode":"751fe3fe7a661cbc","fromSide":"bottom","toNode":"479c7f24b64c8069","toSide":"top","fromEnd":"arrow","color":"1"},
+		{"id":"e68c0ef7be78beea","fromNode":"f96e312e64b648a6","fromSide":"bottom","toNode":"751fe3fe7a661cbc","toSide":"top"},
+		{"id":"6102eb939b9cb71b","fromNode":"3656667c89fef34f","fromSide":"bottom","toNode":"526a7855547489d3","toSide":"top","fromEnd":"arrow","color":"1"}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"5fd63129d7951941","type":"text","text":"# [[00. Java]]\n\n\n\n\n# Java","x":-138,"y":-220,"width":250,"height":300,"color":"1"},
+		{"id":"0e58571935196311","type":"text","text":"## [[2. Semester/Softwaretechnologie/Class/Class]]","x":-588,"y":-16,"width":250,"height":60,"color":"2"},
+		{"id":"50a03d28ca4554f8","type":"text","text":"[[Biologisches Programmieren]]","x":-1000,"y":-16,"width":250,"height":60,"color":"4"},
+		{"id":"41fa1dec7f2c1c4f","type":"text","text":"[[Liskow'sches Prinzip]]","x":-1001,"y":175,"width":250,"height":60,"color":"5"},
+		{"id":"c46fdc732f901210","type":"text","text":"## [[Vererbung]]","x":-713,"y":300,"width":250,"height":60,"color":"3"},
+		{"id":"eeec12fcaa4ac60c","x":-348,"y":294,"width":250,"height":60,"color":"3","type":"text","text":"## [[Polymorphie]]"}
+	],
+	"edges":[
+		{"id":"8824a4767cb06aa0","fromNode":"5fd63129d7951941","fromSide":"left","toNode":"0e58571935196311","toSide":"right"},
+		{"id":"e7be989ee72d26fe","fromNode":"0e58571935196311","fromSide":"bottom","toNode":"c46fdc732f901210","toSide":"top"},
+		{"id":"f044640a2f041883","fromNode":"0e58571935196311","fromSide":"left","toNode":"50a03d28ca4554f8","toSide":"right"},
+		{"id":"f5c9a96315ef257e","fromNode":"50a03d28ca4554f8","fromSide":"bottom","toNode":"41fa1dec7f2c1c4f","toSide":"top"},
+		{"id":"96fe5cdd3251a8b1","fromNode":"0e58571935196311","fromSide":"bottom","toNode":"eeec12fcaa4ac60c","toSide":"top"}
+	]
+}

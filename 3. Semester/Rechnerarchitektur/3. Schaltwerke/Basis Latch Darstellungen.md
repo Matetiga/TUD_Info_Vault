@@ -1,0 +1,1 @@
+![[Screenshot from 2024-12-01 14-47-39.png]]

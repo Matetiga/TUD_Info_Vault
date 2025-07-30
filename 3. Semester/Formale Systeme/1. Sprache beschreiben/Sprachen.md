@@ -1,0 +1,1 @@
+Eine Sprache ist abzählbar, wenn es eine **Injektive Funktion** $f:M\to \mathbb{N}$ gibt

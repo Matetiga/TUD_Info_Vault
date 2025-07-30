@@ -1,0 +1,11 @@
+iterate over the character
+
+```Rust
+fn main() {
+    let s = "Hello, Rust!";
+    for c in s.chars() {
+        println!("{}", c);
+    }
+}
+
+```

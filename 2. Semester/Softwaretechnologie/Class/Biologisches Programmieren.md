@@ -1,0 +1,3 @@
+- ## Vererbungshererchie nachträglich zu erweitern
+- ### zu refaktorisieren
+- #### [[Liskow'sches Prinzip]] 

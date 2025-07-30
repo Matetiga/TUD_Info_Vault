@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"5d76badf430769f1","type":"text","text":"### class drinkBeer\ndrinksBeer();","x":62,"y":-362,"width":250,"height":182,"color":"4"},
+		{"id":"d02cca88f142bc30","type":"text","text":"#### class Professor\ngivesLecture()","x":-440,"y":-40,"width":250,"height":180,"color":"5"},
+		{"id":"188514dd357802fb","type":"text","text":"#### class Student\nrecievesLecture()","x":63,"y":-67,"width":250,"height":207,"color":"5"},
+		{"id":"4116ca468949a62a","type":"text","text":"## class Person\nwakeUp();\nwork();\nsleep();","x":62,"y":-680,"width":250,"height":220,"color":"2"}
+	],
+	"edges":[
+		{"id":"2ff6ac5fa93b8d56","fromNode":"4116ca468949a62a","fromSide":"bottom","toNode":"5d76badf430769f1","toSide":"top"},
+		{"id":"c5d101d463549475","fromNode":"d02cca88f142bc30","fromSide":"top","toNode":"5d76badf430769f1","toSide":"left"},
+		{"id":"69dcb9921d1ce666","fromNode":"188514dd357802fb","fromSide":"top","toNode":"5d76badf430769f1","toSide":"bottom"}
+	]
+}

@@ -1,0 +1,1 @@
+![[body diode in mosfet.png]]

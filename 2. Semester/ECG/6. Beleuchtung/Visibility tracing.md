@@ -1,0 +1,1 @@
+Used to determine which objects are visible from a certain point of view and which objects are hidden

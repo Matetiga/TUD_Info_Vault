@@ -1,0 +1,3 @@
+- Don't have an implementation
+- Must be inherited 
+- Each (normal) class defines the abstract method in it's own way

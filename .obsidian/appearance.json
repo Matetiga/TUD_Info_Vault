@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "notation-colored-blocks",
+    "adaptive_images"
+  ],
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "baseFontSize": 18
+}

@@ -1,0 +1,1 @@
+`docker exec -it <container_name_or_ID> sh`

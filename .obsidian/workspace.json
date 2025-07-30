@@ -1,0 +1,359 @@
+{
+  "main": {
+    "id": "6fd73026dc59a988",
+    "type": "split",
+    "children": [
+      {
+        "id": "236c487fa0fc25c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abcb8d6237dd27ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Nachweis Polynomielle Sprachen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nachweis Polynomielle Sprachen"
+            }
+          },
+          {
+            "id": "c120d6a5edc0fea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Rechnernetze/Vermittlungsschicht/ICMP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ICMP"
+            }
+          },
+          {
+            "id": "2e715e8f5736d8db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Datalog Regel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Datalog Regel"
+            }
+          },
+          {
+            "id": "52242f9f82556ff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Ableitungsbaum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ableitungsbaum"
+            }
+          },
+          {
+            "id": "df7aff17e2de9d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Semester/Rechnernetze/Vermittlungsschicht/NAT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NAT"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1162af5c7546e4f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe14485488e94ff6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5be9bd9968b4393f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10586899ed1bf165",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vich",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabeticalReverse"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "910c83a69c9a2f3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.51103591918945
+  },
+  "right": {
+    "id": "92afb6c2a090f64d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cd9d3bc3d590672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "007a9f4fd1c6e97e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. Semester/Rechnerarchitektur II/Cache.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cache"
+            }
+          },
+          {
+            "id": "30cf6c242dc00382",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. Semester/Rechnerarchitektur II/Cache.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cache"
+            }
+          },
+          {
+            "id": "36a6f681c9393203",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "96e910a00c637e81",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {},
+              "icon": "dot-network",
+              "title": "Mind Map of Eigenschaften Minimalpolynome"
+            }
+          },
+          {
+            "id": "87f7e82e7b104104",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "051ecb6f2dfe4631",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "4d6b94bf731a1684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f305ef25a7e0c201",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "floating": {
+    "id": "be07dfef9754aff6",
+    "type": "floating",
+    "children": [
+      {
+        "id": "153f960fc0671f24",
+        "type": "window",
+        "children": [
+          {
+            "id": "57ebb9023ccc35f6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e08c9e4e7fbb994",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Getting+Started",
+                    "title": "Getting Started - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Getting Started - Git Documentation - Obsidian Publish"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 156,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8e08c9e4e7fbb994",
+  "lastOpenFiles": [
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Nachweis Polynomielle Sprachen.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Bekannte NP Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/Beziehungen der Komplezitätsklassen.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Komplezitätsklassen.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/PSpace/TrueQBF Problem.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/PSpace/Bekannte PSpace Probleme.md",
+    "3. Semester/Formale Systeme/4. Turingmaschinen/(Un)Entscheidbarkeit.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Entscheidbarkeit durch Reduktion.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Unentscheidbare Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/NP.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Rucksack Problem.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/P.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Polynomielle Reduktion.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Many-One Reduktion.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Semientscheibarkeit/Probleme Beispiele.md",
+    "3. Semester/Formale Systeme/2. Regulare Sprachen/5. Grenzen Reguläre Sprachen/Probleme für Automaten.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Semientscheibarkeit/Übersicht.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NL Probleme/Bekannte NL Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Unterschiede Unentscheibar-Unberechenbar.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/LOOP-Programm.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Semientscheibarkeit/Aufzähler.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Von TM zum Aufzähler.md",
+    "4. Semester/Rechnernetze/Kommunikation/CSMA - CD.md",
+    "4. Semester/Rechnernetze/Routing/Split Horizon.md",
+    "4. Semester/Rechnernetze/Bridges/Transparent Bridges.md",
+    "2. Semester/Rust/01. Rust.canvas",
+    "images/Pasted image 20250710162103.png",
+    "images/Pasted image 20250710161941.png",
+    "images/Pasted image 20250710161500.png",
+    "images/Pasted image 20250710160322.png",
+    "images/Pasted image 20250710160137.png",
+    "images/Pasted image 20250710154749.png",
+    "images/Pasted image 20250702101257.png",
+    "images/Pasted image 20250628174254.png",
+    "images/Pasted image 20250709102938.png",
+    "images/Pasted image 20250709102703.png",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Untitled",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen",
+    "4. Semester/Rechnernetze/Anwendungsschicht",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand",
+    "4. Semester/Rechnernetze/Transportschicht",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole",
+    "4. Semester/Rechnernetze/Vermittlungsschicht",
+    "4. Semester/Rechnernetze/Bitübertragung",
+    "images/i8080_sim_export.csv",
+    "4. Semester/HWP/4. Versuch",
+    "4. Semester/Untitled.canvas",
+    "3. Semester/Mathe II/2. Ringe und Körper/Untitled.canvas",
+    "2. Semester/Mathematische Methoden/01. Mathematische Methoden.canvas",
+    "2. Semester/Mathematische Methoden/05. Reelle Funktionen mit mehrere Veränderlichen/Ableitungen (mit n Veränderlichen)/Differenzierbarkeit.canvas",
+    "2. Semester/ECG/7. Ra.canvas",
+    "2. Semester/Softwaretechnologie/01.Java.canvas",
+    "2. Semester/Softwaretechnologie/Class/Vererbungrelationen.canvas"
+  ]
+}

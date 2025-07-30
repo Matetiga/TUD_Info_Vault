@@ -1,0 +1,9 @@
+- <span style="color:#1fffc7">int</span> i(-2);
+- <span style="color:#1fffc7">short</span> s(30000);
+-  <span style="color:#1fffc7">uint64_t</span> u(4000000000ull);
+- <span style="color:#1fffc7">unsigned</span> char b = 255;
+-  <span style="color:#1fffc7">bool</span> b = true;
+- <span style="color:#1fffc7">float</span> pi_f = 3.14f;
+- <span style="color:#1fffc7">double</span> pi_d = 3.14159;
+- <span style="color:#1fffc7">char</span> c = 'x';
+- <span style="color:#1fffc7">wchar_t</span> w = L'ä';

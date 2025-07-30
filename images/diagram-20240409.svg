@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="662" height="302" style="
+        width:662px;
+        height:302px;
+        background: transparent;
+        fill: none;
+">
+        
+        
+        <svg xmlns="http://www.w3.org/2000/svg" class="role-diagram-draw-area"><g class="shapes-region" style="stroke: black; fill: none;"><g class="composite-shape axis2d" style="stroke-width: 1px; stroke: rgb(0, 0, 0);"><path class="real" d=" M50,205.82 L243,205.82 M69.3,62 L69.3,221.8"/><path d=" M236,200.82 L243,205.82 L236,210.82"/><path d=" M64.3,69 L69.3,62 L74.3,69"/></g><g class="composite-shape"><path class="real" d=" M98,74.8 C127.33,250.8 156.67,250.8 186,74.8" style="stroke-width: 1px; stroke: rgb(0, 0, 0); fill: none; fill-opacity: 1;"/></g><g class="arrow-line"><path class="connection real" stroke-dasharray="" d="  M140,197 L140,213.8" style="stroke: rgb(0, 0, 0); stroke-width: 1px; fill: none; fill-opacity: 1;"/></g><g/></g><g/><g/><g/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="660" height="300" style="width:660px;height:300px;font-family:Asana-Math, Asana;background:transparent;"><g><g><g><g transform="matrix(1,0,0,1,136,236.19998168945312)"><path transform="matrix(0.017,0,0,-0.017,0,0)" d="M418 -3L418 27L366 30C311 33 301 44 301 96L301 700L60 598L67 548L217 614L217 96C217 44 206 33 152 30L96 27L96 -3C250 0 250 0 261 0C292 0 402 -3 418 -3Z" stroke="rgb(0,0,0)" stroke-opacity="1" stroke-width="8" fill="rgb(0,0,0)" fill-opacity="1"></path></g></g></g></g></svg>
+</svg>

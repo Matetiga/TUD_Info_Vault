@@ -1,0 +1,2 @@
+- in contrast with [[Ray Tracing]]
+- It uses **light sources as start point**, and traces light rays into the camera to determine what is visible and what not

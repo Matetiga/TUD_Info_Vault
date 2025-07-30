@@ -1,0 +1,1 @@
+### A reference with `'static` can live through the whole duration of the program
