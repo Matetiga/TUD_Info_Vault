@@ -4,7 +4,3 @@
 - [[Interfaces]]
 - [[Abstract classes]]
 - [[2. Composite]] (Having a class inside of another one)
-
-
----
-
