@@ -265,15 +265,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "153f960fc0671f24",
+        "id": "5487935cca20fb93",
         "type": "window",
         "children": [
           {
-            "id": "57ebb9023ccc35f6",
+            "id": "be5ec7f1e7ad03a9",
             "type": "tabs",
             "children": [
               {
-                "id": "8e08c9e4e7fbb994",
+                "id": "134781331f0b2188",
                 "type": "leaf",
                 "state": {
                   "type": "webviewer",
@@ -285,8 +285,37 @@
                   "icon": "globe-2",
                   "title": "Getting Started - Git Documentation - Obsidian Publish"
                 }
+              },
+              {
+                "id": "7ab372a5270732f4",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://publish.obsidian.md/git-doc/Authentication",
+                    "title": "Authentication - Git Documentation - Obsidian Publish",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Authentication - Git Documentation - Obsidian Publish"
+                }
+              },
+              {
+                "id": "fb262900fc4848a4",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent",
+                    "title": "Generating a new SSH key and adding it to the ssh-agent - GitHub Docs",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Generating a new SSH key and adding it to the ssh-agent - GitHub Docs"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -299,7 +328,7 @@
       }
     ]
   },
-  "active": "8e08c9e4e7fbb994",
+  "active": "fb262900fc4848a4",
   "lastOpenFiles": [
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Nachweis Polynomielle Sprachen.md",
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Bekannte NP Probleme.md",
