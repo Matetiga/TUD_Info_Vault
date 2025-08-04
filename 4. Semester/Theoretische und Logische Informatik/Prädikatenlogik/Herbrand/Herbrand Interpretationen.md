@@ -1,4 +1,3 @@
-
 ## Definition
 Mit dem [[Herbrand Universum]] als [[Interpretationen#Domäne|Domän]] kann man Interpretationen definieren, die
 Terme „durch sich selbst“ interpretieren:

@@ -31,10 +31,11 @@
 
 #### Satz von Savich
 - $\text{PSpace} = \text{NPSpace}$
-	- $\text{ NPSpace } = \text{coNPSpace}$
-#### Zusammengefasste Beziehungen
+- $\text{ NPSpace } = \text{coNPSpace}$
+---
+## Zusammengefasste Beziehungen
 $$
-L ⊆ NL ⊆ P ⊆ NP ⊆ PSpace = NPSpace ⊆ Exp ⊆ NExp
+L ⊆ NL ⊆ P ⊆ NP ⊆ (PSpace = NPSpace) ⊆ Exp ⊆ NExp
 $$
 ---
 ### Beispiele 

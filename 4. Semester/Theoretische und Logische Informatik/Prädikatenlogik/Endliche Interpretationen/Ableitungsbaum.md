@@ -1,8 +1,8 @@
 ## Definiton
 Die Folgerung $P \models F$ kann man als eien endlichen Baum darstellen 
-- Jeder Knoten ist ein variablenfreies Atom.
-- Jeder Elternknoten entsteht durch Anwendung einer Regel aus $P$ auf seine Kindknoten
-- Jeder Blattknoten ist ein gegebener Fakt aus $P$
+- Jeder **Knoten** ist ein **variablenfreies Atom**.
+- Jeder *Elternknoten* entsteht **durch Anwendung einer Regel aus** $P$ auf seine **Kindknoten**
+- Jeder **Blattknoten** ist ein gegebener **Fakt** aus $P$
 - Jeder Knoten wird zusätzlich mit der Regel und Substitution $\theta$ bescrhiftet, die zur Ableitung genutzt würde
 
 >[!Important]

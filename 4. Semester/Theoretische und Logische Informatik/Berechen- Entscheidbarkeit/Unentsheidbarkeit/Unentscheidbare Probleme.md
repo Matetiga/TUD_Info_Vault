@@ -10,4 +10,3 @@
 Die Frage, ob eine *kontextsensitive Grammatik* eine leere Sprache erzeugt $L(G1) = \emptyset$ ist **unentscheidbar** 
 - Das bedeutet, es gibt **keinen allgemeinen Algorithmus**, der für jede beliebige CSG entscheiden kann, ob sie keine Wörter erzeugt. 
 - [[Unterschiede Unentscheibar-Unberechenbar]]
-

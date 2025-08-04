@@ -2,6 +2,10 @@ Die Menge aller *atomare Formeln*
 - also Prädikate ohne Quantoren 
 - oder logische Verknüpfungen
 
+>[!Important]
+>Ein Herbrand Modell $I$ ist eine Menge, wo Prädikate Elementen aus dem [[Herbrand Universum]] enthalten und die **Formel erfüllen**
+
+
 ## Beispiel
 - Formel: $\forall x \exists y P(x, y)$
 - [[Skolems Funktionen#Skolemisierung|Skolemisierung]]: $\forall x P(x, f(x))$ 
@@ -10,4 +14,4 @@ Die Menge aller *atomare Formeln*
 
 ### Unterschied mit [[Herbrand Expansion]]
 - Herbrand Modell beschäftigt sich nicht mit der gesamten Formel (nur Prädikate als Einseln)
-- also ohne logische Verküpfungen
+- also ohne **logische Verküpfungen**

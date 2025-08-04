@@ -3,7 +3,7 @@ Dadurch kann man finden, ob für die *Unifikationsproblem* G ein [[Unifikator#Al
 ## Umformungsregeln 
 ### Löschen 
 - $\{  t \doteq t \} \cup G \to G'$
-- ein Term ist gleich zu sic hselbst 
+- ein Term ist gleich zu sich selbst 
 ### Zerlegung 
 - $\{ f (s_{1},\dots , s_{n}) \doteq f (u_{1}, \dots , u_{n})\} \cup G' \to \{ s_{1} \doteq u_{1}, \dots, s_{n} \doteq u_{n} \} ∪ G'$
 - Eine Gleichung (auf Parameter $s_{1},\dots ,s_{n}$, $u_{1},\dots ,u_{n}$)

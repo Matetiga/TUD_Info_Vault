@@ -8,7 +8,7 @@
 	- Ein **n-Stellige Prädikatsymbol** $p\in P$ auf eine **Relation** $p^{I} \subseteq (\Delta^{I})^{n}$
 
 ### Zuweisung
-- **Zuweisung** : Variablen werden auf Elemente in der Domäne abgebildet 
+- **Zuweisung** : *Variablen* werden auf Elemente in der Domäne abgebildet 
 	- $Z = V \to \Delta^{I}$
 	- mit $x \in V  \text{ und } \delta\in \Delta^{I} \text{ folgt: }Z[x \mapsto \delta]$
 ## Beispiel

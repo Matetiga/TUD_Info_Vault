@@ -1,7 +1,6 @@
 ## Algorithmus
 1. Logische Formel auf Unerfüllbarkeit reduzieren 
 2. Formeln in Klauselnform umwandeln
-	- [[Bereinigte Formeln|Formel bereinigen]]
 	- [[4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole/Negationsnormalform|Negationsnormalform]] bilden
 	- [[Pränexform]] bilden
 	- [[Skolems Funktionen|Skolemform]] bilden

@@ -1,4 +1,4 @@
-## [[NP#NP-Vollständig|NP-Vollständig]]
+## [[NP-Vollständig]]
 - [[Teilmenge Summe]]
 - SAT 
 	- $\text{ SAT } \leq_{p} \text{ Teilmenge Summe}$
@@ -12,7 +12,7 @@ Probleme, welche selbst dann *noch NP-vollständig* sind, **wenn man alle Zahlen
 **kodiert**, heißen stark *NP-vollständig*.
 
 ---
-## [[NP#NP- Schwer|NP- Schwer]]
+## [[NP-Schwer]]
 - [[Rucksack Problem]]
 - [[Halteproblem]]
 

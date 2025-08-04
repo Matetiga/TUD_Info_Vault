@@ -8,7 +8,7 @@ Existenz Quantor kann man auch als Auswertung einer Funktion angesehen werden
 *Skolemisierung führt nicht zu semantisch äquivalenten Formeln*
 Eine Formel F in [[Pränexform]] ist genau dann erfüllbar, wenn die Skolemisierung
 von F erfüllbar ist
-- Die Reihenfolgen in dem man die Quantoren ordnet ist wichtib bei Skolemisierung 
+- Die Reihenfolgen in dem man die Quantoren ordnet ist wichtig bei Skolemisierung 
 - Bei der Skolemisierung ist die **Existenz Quantor, von alle vorherige All-Quantoren abhängig**
 
 ### Schritte

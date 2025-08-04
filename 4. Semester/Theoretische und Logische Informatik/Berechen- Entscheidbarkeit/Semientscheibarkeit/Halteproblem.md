@@ -1,4 +1,5 @@
 -  ist [[(Un)Entscheidbarkeit#Semi-Entscheidbar|semi entscheidbar]]
+- und [[(Un)Entscheidbarkeit#Untenscheidbare Sprachen|unentscheidbar]]
 
 ## Beweis
 Eine Turingmaschine, die das Halteproblem erkennt, ist leicht skizziert:

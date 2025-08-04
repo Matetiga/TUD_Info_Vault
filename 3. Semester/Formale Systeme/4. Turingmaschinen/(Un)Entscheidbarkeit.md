@@ -21,13 +21,13 @@ Die Turingmaschine $M$ **entscheidet das Wortproblem** der Sprache $L$
 
 
 ### Untenscheidbare Sprachen
-Eine Sprache $L$ ist unentscheidbar, wenn es **keine Turingmaschine $\mathcal{M}$** gibt, die für alle Eingaben entscheidet, ob sie zur Sprache gehört oder nicht
+Eine Sprache $L$ ist unentscheidbar, wenn es **keine Turingmaschine $\mathcal{M}$** gibt, die für **alle** Eingaben entscheidet, ob sie zur Sprache gehört oder nicht
 Das bedeutet:
 - Für manche Wörter $w$ bleibt die Turingmaschine in einer **Endlosschleife** und **gibt keine Entscheidung** aus
 
 
 ### Semi-Entscheibare Sprachen
-Eine Sprache $L$ heißt *semi-entscheidbar* (rekursiv aufzählbar oder Turing-erkennbar), wenn es eine Turingmaschine $M$ gibt, die folgendes Verhalten zeigt:
+Eine Sprache $L$ heißt *semi-entscheidbar* (rekursiv aufzählbar ([[Aufzähler]]) oder Turing-erkennbar), wenn es eine Turingmaschine $M$ gibt, die folgendes Verhalten zeigt:
 - **Falls** $w∈L$, hält $M$ nach endlich vielen Schritten und akzeptiert $w$
 - **Falls** $w∉L$, kann es sein, dass $M$ nie hält (*sie kann in eine Endlosschleife geraten*)
 
