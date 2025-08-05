@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
+                "file": "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bekannte Probleme und Regeln"
+              "title": "Herbrand Model"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ackerman",
+                "query": "Skole",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
+                "file": "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bekannte Probleme und Regeln"
+              "title": "Outline of Herbrand Model"
             }
           },
           {
@@ -222,6 +222,25 @@
   },
   "active": "07c8c249967a98fa",
   "lastOpenFiles": [
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Interpretationen.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Expansion.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Model.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Basis.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Universum.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole/Negationsnormalform.md",
+    "images/Pasted image 20250629130801.png",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Theorie.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Satz.md",
+    "3. Semester/Mathe II/3. Numersiche Methoden/Auswertung von Polynome/Knuth Satz.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Prädikatenlogik Unentscheidbarkeit.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole/Pränexform.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole/Skolems Funktionen.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Prädikatenlogic.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Modelltheorie/Model.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Interpretationen.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Terme.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Teilformel.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Bekannte NP Probleme.md",
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/Beziehungen der Komplezitätsklassen.md",
     "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/LOOP-Programm.md",
@@ -230,24 +249,6 @@
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/NP-Vollständig.md",
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/NP-Schwer.md",
     "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/NP.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Effizient berechenbare Funktionen.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Linear Speed Up Theorem.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Unentscheidbare Probleme.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Postsche Korrespondenzproblem.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/WHILE-Programm.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Busy Beaver Funktion.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Semientscheibarkeit/Halteproblem.md",
-    "3. Semester/Formale Systeme/4. Turingmaschinen/(Un)Entscheidbarkeit.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Semientscheibarkeit/Aufzähler.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Prädikatenlogik Unentscheidbarkeit.md",
-    "3. Semester/Formale Systeme/4. Turingmaschinen/Turingmaschine.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Konsequenzoperator.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Endliche Interpretation.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Ableitungsbaum.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Datalog Regel.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Satz von Trakhtenbrot.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Model.md",
     "2. Semester/Softwaretechnologie/01.Java.canvas",
     "2. Semester/Rust/01. Rust.canvas",
     "images/Pasted image 20250710162103.png",
@@ -259,7 +260,6 @@
     "images/Pasted image 20250702101257.png",
     "images/Pasted image 20250628174254.png",
     "images/Pasted image 20250709102938.png",
-    "images/Pasted image 20250709102703.png",
     "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Untitled",
     "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen",
     "4. Semester/Rechnernetze/Anwendungsschicht",

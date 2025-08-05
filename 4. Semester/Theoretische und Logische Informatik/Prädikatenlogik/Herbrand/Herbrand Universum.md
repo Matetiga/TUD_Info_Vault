@@ -14,6 +14,15 @@ F und der zusätzlichen Konstante a bilden kann:
 Das Herbrand-Universum ist **immer abzählbar**, *manchmal endlich* und
 **niemals leer**
 
+---
+## Herbrand Konstante
+Eine Konstante wird im Universum hinzugefügt, nur wenn es keine andere Konstanten hat 
+- Somit ist ein Universum niemals leer
+- mit $c$ als die **Herbrand Konstante**
 
 ## Beispiel
-![[Pasted image 20250629130801.png]]
+Für die Formel $G=\forall x,y.(p(a,f(a,x,y)) \lor q(b))$
+$$
+\Delta_{G}=\{ a,b,f(b,c,b),q(f(a,c,b),\dots)\}
+$$
+- Da man im Universum ist, dürfen Konstanten ersetzt  werden

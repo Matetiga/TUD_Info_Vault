@@ -7,9 +7,11 @@ Eine Herbrand-Interpretation für eine Formel F ist eine Interpretation I, für 
 - für jeden [[Terme|Term]] gilt $t \in \Delta_{F}$ gilt $t^{I}=t$
 Ist genau ein [[Herbrand Model]] für F, wenn $I \models F$ gilt
 
+>[!Important]
+>Also es eine eine beliebige Zuweisung von Wahrheitwerten
 ### Lemma
 Für jede *Herbrand Interpretation* $I$, jede *Zuweisung* $Z$ für $I$, jeden Term
-$t ∈ ∆I$ und jede Formel $F$ gilt
+$t \in \Delta^{I}$ und jede Formel $F$ gilt
 $$
 I,Z\{ x \mapsto t \} \models F \Leftrightarrow I,Z \models F\{ x \mapsto t \}
 $$

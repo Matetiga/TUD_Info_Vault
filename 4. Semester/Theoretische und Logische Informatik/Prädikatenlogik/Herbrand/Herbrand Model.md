@@ -4,14 +4,21 @@ Die Menge aller *atomare Formeln*
 
 >[!Important]
 >Ein Herbrand Modell $I$ ist eine Menge, wo Prädikate Elementen aus dem [[Herbrand Universum]] enthalten und die **Formel erfüllen**
+>- Es ist eine [[Herbrand Interpretationen| Herbrand Interpretation]], die die gegebene Formel erfüllt 
 
-
-## Beispiel
-- Formel: $\forall x \exists y P(x, y)$
-- [[Skolems Funktionen#Skolemisierung|Skolemisierung]]: $\forall x P(x, f(x))$ 
-- [[Herbrand Universum]]: $\{a, f(a), f(f(a)), \dots\}$
-- **Herbrand Model**:$\{P(a, f(a)), P(a, f(f(a))), P(f(a), f(f(a))), \dots\}$(alle möglichen atomaren Instanzen des Prädikats $P(x, y)$
+## Beispiel 
+Für die Formel : $G=\forall x,y.(p(a,f(a,x,y)) \lor q(b))$
+ist ein mögliches Herbrand Modell, das folgendes:
+- Da es eine Logische Oder Operation ist, kann man definieren, dass $q(b)$ **wahr ist**
+- Dafür folgt ein Herbrand Modell : 
+	- $q^{I_{G}}=\{ b \}$
+	- $p^{I_{G}}=\emptyset$
+>[!Important]
+>Es gibt viele Herbrand-Interpretationen mit denen die Formel erfüllt wird
+>Also sie viele mögliche Herbrand Modelle 
+>- Aber nicht jede Formel hat ein Herbrand Modell, *da jede Formel nicht erfüllbar ist*
+>- z.B $\forall x.(p(x) \land \not p(x))$
 
 ### Unterschied mit [[Herbrand Expansion]]
 - Herbrand Modell beschäftigt sich nicht mit der gesamten Formel (nur Prädikate als Einseln)
-- also ohne **logische Verküpfungen**
+ - Herbrand Modell, nutzt Elemente aus dem Herbrand Expansion (aber nicht alle Elemente erfüllen die Formel)

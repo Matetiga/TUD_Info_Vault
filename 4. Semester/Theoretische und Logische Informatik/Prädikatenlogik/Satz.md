@@ -1,0 +1,1 @@
+Eine Satz ist eine Prädikatenlogische Formel, wo **keine [[Freie- Gebundene Variablenvorkommen#Freie Variablen|Freie Variablen]]** vorkommen 
