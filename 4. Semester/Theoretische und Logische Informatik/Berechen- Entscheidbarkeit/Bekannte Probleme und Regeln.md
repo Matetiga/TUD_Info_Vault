@@ -1,4 +1,4 @@
-	## Problemen
+## Problemen
 - $P_{Halt}$ : unentscheidbar 
 - $\overline{P}_{Halt}$ : unentscheidbar
 - $P_{Halt}$ : [[Halteproblem|semi-entscheidbar]]
@@ -19,11 +19,13 @@
 ## Bekannte Regeln
 ### Entscheidbarkeit
 - Wenn $P$ **entscheidbar**, dann $\overline{P}$ **auch entscheidbar**
-- $L$ ist genau dann **entscheidbar**, wenn $L$ und $\overline{L}$ *semi-entscheibar* sind
-- Eine **Sprache** K ist genau, dann **entscheidbar**, wenn ihr **Komplement** $\overline{K}$ **unentscheidbar** ist 
+- $L$ ist genau dann **entscheidbar**, wenn $L$ *semi-entscheibar* und $\overline{L}$ *co-semi-entscheibar* ist
+- Eine **Sprache** K ist genau, dann **entscheidbar**, wenn ihr **Komplement** $\overline{K}$ **entscheidbar** ist 
+- Jede **entscheidbare** Sprache ist **auch semi-entscheidbar**
 ---
 ### Unentscheidbarkeit
-- Wenn $P$ **unentscheidbar**, dann $\overline{P}$ **auch unentscheidbar**
+- Wenn $P$ **unentscheidbar**, dann $\overline{P}$ **auch unentscheidbar** 
+	- (Beweis durch Widerpruch)
 - Dasselbe gilt für Sprachen auch ($L \text{ unentscheidbar, dann } \overline{L} \text{ auch unentscheidbar}$)
 ---
 ### Semi-entscheidbarkeit
@@ -32,7 +34,5 @@
 ##### Komplementierung
  - $P$ semi-entscheidbar $\implies \overline{P}$ [[Komplementierung#Co-Semi-Entscheidbarkeit|co-semi-entscheidbar]]
 - $P_{1} \leq P_{2} \implies \overline{P}_{1} \leq \overline{P}_{2}$
-- Wenn $P$ *semi-entscheidbar* und $\overline{P}$ *co-semi-entscheidbar* $\implies P$ [[Komplementierung#Zwei Halbe Entscheidbarkeit|entschedibar]]
+- Wenn $P$ *semi-entscheidbar* und $\overline{P}$ *co-semi-entscheidbar* $\implies P$ [[Komplementierung#Zwei Halbe Entscheidbarkeit|entscheidbar]]
 ---
-
-$\leq$
