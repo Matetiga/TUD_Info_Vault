@@ -12,6 +12,7 @@ HE(F)=\{ p(a,f(a, r, s) \lor q(b)) | r,s \in \Delta_{F}\}
 $$
 >[!Important]
 >**Konstanten und die Funktionen bleiben gleich** und dürfen nicht ersetzt werden
+>- Falls es ein [[Herbrand Model]] für die Formel existiert, dann ist die **Herbrand Expansion** für die Formel **erfüllbar**
 
 ---
 ### Unterschied mit [[Herbrand Model]]

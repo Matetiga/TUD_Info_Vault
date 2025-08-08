@@ -5,3 +5,4 @@ $$HB(F)=\{ p(t_{1},t_{2})|t_{1},t_{2} \in \Delta_{F} \} \cup \{ q(t_{4})|t_{4} \
 
 >[!Important]
 >Man schreibt nur die Atome und **keine einzelne Termen**
+>- Die Größe der Herbrand-Basis hängt von der Größe des [[Herbrand Universum]]

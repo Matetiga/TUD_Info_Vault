@@ -10,7 +10,7 @@
 - **Äquivalenzproblem** von Kontextfreie Sprachen ist **unentscheidbar**
 - $\overline{P_{Leer}}$ ist semi-entscheidbar
 - **Entscheidungsproblem** ist unentscheidbar 
-
+- [[Postsche Korrespondenzproblem]] ist **unentscheidbar**
 #### Definitionen
 - [[Probleme Beispiele|Semi-Entscheidbare Probleme]]
 - [[Unentscheidbare Probleme]]
@@ -34,5 +34,6 @@
 ##### Komplementierung
  - $P$ semi-entscheidbar $\implies \overline{P}$ [[Komplementierung#Co-Semi-Entscheidbarkeit|co-semi-entscheidbar]]
 - $P_{1} \leq P_{2} \implies \overline{P}_{1} \leq \overline{P}_{2}$
-- Wenn $P$ *semi-entscheidbar* und $\overline{P}$ *co-semi-entscheidbar* $\implies P$ [[Komplementierung#Zwei Halbe Entscheidbarkeit|entscheidbar]]
+- Wenn $P$ *semi-entscheidbar* und $\overline{P}$ *semi-entscheidbar* $\implies P$ [[Komplementierung#Zwei Halbe Entscheidbarkeit|entscheidbar]]
+- Wenn $P$ *semi-entscheidbar* und $P$ *co-semi-entscheidbar* $\implies$ entscheidbar
 ---

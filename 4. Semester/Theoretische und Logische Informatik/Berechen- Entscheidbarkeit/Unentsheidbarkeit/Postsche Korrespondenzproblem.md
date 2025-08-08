@@ -1,6 +1,6 @@
 ## PCP ist eine Untentscheidbare Probleme 
 - schon bei einem Alphabet mit **zwei Symbole ist PCP unentscheidbar** 
-	- $\text{ Für } \{ a,b \}$ ist PCP unentscheidbar 
+	- $\text{ Für } \{ a,b \}$ ist PCP [[(Un)Entscheidbarkeit#Untenscheidbare Sprachen|unentscheidbar]] 
 - #### Spezieller Fall 
 	- Für ein Alphabet mit **nur einem Symbol** ist **PCP [[(Un)Entscheidbarkeit#Entscheidbarkeit|entscheidbar]] **
 

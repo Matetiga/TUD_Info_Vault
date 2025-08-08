@@ -5,6 +5,7 @@ F und der zusätzlichen Konstante a bilden kann:
 - $a \in \Delta_{F}$
 - $c \in \Delta_{F}$ für jede Konstante in F
 - $f(t_{1},\dots ,t_{n}) \in \Delta_{F}$ für jedes n-stellige Funktionssymbol aus F und alle Terme $t_{1},\dots ,t_{n} \in \Delta_{F}$
+- Die Formel muss nicht in [[Skolems Funktionen|Skolemform]] sein um das Universum zu bestimmen
 
 >[!Important]
 >Das Herbrand Universum betrachtet **nur die Funktionen und keine Prädikate** 
