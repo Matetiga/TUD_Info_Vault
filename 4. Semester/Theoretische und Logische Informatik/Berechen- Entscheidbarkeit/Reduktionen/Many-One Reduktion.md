@@ -1,9 +1,10 @@
 ## Definition
-Eine **Many-One-Reduktion** ist eine Methode, um zu zeigen, dass ein Problem P *mindestens so schwer ist wie ein Problem* Q, indem man zeigt, dass P durch eine deterministische polynomielle Transformation in Q umgewandelt werden kann.
+Eine **Many-One-Reduktion** ist eine Methode, um zu zeigen, dass ein Problem Q *mindestens so schwer ist wie ein Problem* P, indem man zeigt, dass P durch eine deterministische Transformation in Q umgewandelt werden kann
+- Mit $P \leq_{p}Q$
 
-Eine berechenbare totale Funktion $f : Σ^{*}→ Σ^{*}$ ist eine Many-One-Reduktion von einer
+Eine berechenbare **totale Funktion** $f : Σ^{*}→ Σ^{*}$ ist eine Many-One-Reduktion von einer
 Sprache *P* auf eine Sprache *Q* (in Symbolen: $P ≤_{m} Q$), wenn für alle Wörter $w ∈ Σ^{*}$ gilt:
-- $$w ∈ P \Leftrightarrow f (w) ∈ Q$$
+$$w ∈ P \Leftrightarrow f (w) ∈ Q$$
 -  Dies bedeutet, dass die **Reduktion von w muss in Q sein** 
 
 

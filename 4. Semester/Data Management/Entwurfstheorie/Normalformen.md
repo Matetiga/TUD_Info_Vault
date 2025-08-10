@@ -1,6 +1,6 @@
 ## 1. Normalform
 - Keine mehrdeutige Attributen
-- Eine Relation ist in der ersten Normalform, wenn alle Attribute der Relation *atomar* sind (**Werte können nicht mehr zerlegt werden**)
+- Eine Relation ist in der ersten Normalform, wenn alle Attribute der Relation *atomar* sind (**Werte können nicht mehr zerlegt werden**) (also kein Tuppel von Attr.1)
 - Zusammengesetzte und mehrwertige Attribute sind nicht erlaubt
 ### Beispiel
 ![[Pasted image 20250602114744.png]]

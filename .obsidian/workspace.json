@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
+                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Many-One Reduktion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bekannte Probleme und Regeln"
+              "title": "Many-One Reduktion"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PCP",
+                "query": "Polynomielle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
+                "file": "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Many-One Reduktion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bekannte Probleme und Regeln"
+              "title": "Outline of Many-One Reduktion"
             }
           },
           {
@@ -222,32 +222,32 @@
   },
   "active": "07c8c249967a98fa",
   "lastOpenFiles": [
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Polynomielle Reduktion.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Many-One Reduktion.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Reduktionen/Turing Reduktionen.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Datalog Regel.md",
+    "4. Semester/Rechnerarchitektur II/Ubungen/Übung 6.md",
+    "3. Semester/Formale Systeme/2. Regulare Sprachen/5. Grenzen Reguläre Sprachen/Wortprobleme bei NFA.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/mit Funktionssymbole/Lösen von Unifikationsprobleme.md",
+    "3. Semester/Formale Systeme/0. Übersicht/Umformungsalgorithmen.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NL Probleme/Bekannte NL Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NL Probleme/Erreichbarkeit Problem.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/Beziehungen der Komplezitätsklassen.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/PSpace/Bekannte PSpace Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Bekannte NP Probleme.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Sprache SAT.md",
+    "4. Semester/Data Management/Entwurfstheorie/Normalformen.md",
+    "4. Semester/Data Management/Entwurfstheorie/3NF-Synthesealgorithmus.md",
+    "4. Semester/Data Management/Entwurfstheorie/Kandidatschlüssel.md",
+    "4. Semester/Data Management/Entwurfstheorie/Kanonische Überdeckung.md",
+    "4. Semester/Data Management/Entwurfstheorie/Schlüsseln.md",
+    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/P.md",
+    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Endliche Interpretationen/Auswertungsproblem.md",
+    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
     "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Expansion.md",
     "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Universum.md",
     "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Model.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Bekannte Probleme und Regeln.md",
     "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Postsche Korrespondenzproblem.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/TM simulieren in MPCP.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/TM und MPCP.md",
-    "4. Semester/Theoretische und Logische Informatik/Berechen- Entscheidbarkeit/Unentsheidbarkeit/Von MPCP zu PCP.md",
-    "4. Semester/Data Management/SQL/Foreign Key.md",
-    "4. Semester/Data Management/SQL/Integritätsbedingung.md",
-    "4. Semester/Data Management/ER-Diagrame/Integritätsbedingungen.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/Bekannte NP Probleme.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/NP Probleme/NP-Vollständig.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Basis.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Herbrand/Herbrand Interpretationen.md",
-    "4. Semester/Data Management/ER-Diagrame/Spezialisierung und Generallisierung.md",
-    "4. Semester/Data Management/Relationale Algebra/Outer Join.md",
-    "4. Semester/Data Management/Relationale Algebra/Join.md",
-    "4. Semester/Data Management/Entwurfstheorie/Schlüsseln.md",
-    "4. Semester/Data Management/Entwurfstheorie/Volle - Partielle FD.md",
-    "4. Semester/Data Management/ER-Diagrame/Partielle Funktionen.md",
-    "4. Semester/Data Management/ER-Diagrame/Vererbugsabbildungen.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Modelltheorie/Model.md",
-    "4. Semester/Theoretische und Logische Informatik/Prädikatenlogik/Theorie.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/PSpace/QBF.md",
-    "4. Semester/Theoretische und Logische Informatik/Komplexitätstheorie/PSpace/TrueQBF Problem.md",
     "images/Pasted image 20250629130801.png",
     "2. Semester/Softwaretechnologie/01.Java.canvas",
     "2. Semester/Rust/01. Rust.canvas",

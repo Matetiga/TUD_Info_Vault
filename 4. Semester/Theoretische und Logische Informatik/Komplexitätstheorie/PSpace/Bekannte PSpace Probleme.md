@@ -1,7 +1,7 @@
 ## PSpace Vollständig 
 Wenn in PSpace Schwer und in PSpace liegt 
 - [[TrueQBF Problem]]
-- [[Auswertungsproblem]]
+- [[Auswertungsproblem]] von [[Prädikatenlogic]]
 
 ## PSpace - Schwer
 Ein Problem Q ist genau dann *PSpace-schwer*, wenn für jedes Problem P in PSpace
